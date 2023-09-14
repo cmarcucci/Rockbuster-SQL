@@ -15,11 +15,8 @@ Language: PostgreSQL Software: pgAdmin, DbVisualizer, Tableau, Excel
 
 ### KEY SKILLS
 
-**Data cleaning and preparation:** checked for and handled duplicates, non-uniform data, and missing values.
-
-**SQL Joins:**  combined and merged datasets, and added columns from other tables.
-
-**Common Table Expressions (CTEs):** designed CTEs to make the code more readable and easier to reuse.
-
-**Visualizations and report creation:** created Tableau visualization and a presentation with answers to key questions and recommendations.
+- **Data cleaning and preparation:** checked for and handled duplicates, non-uniform data, and missing values.
+- **SQL Joins:**  combined and merged datasets, and added columns from other tables.
+- **Common Table Expressions (CTEs):** designed CTEs to make the code more readable and easier to reuse.
+- **Visualizations and report creation:** created Tableau visualization and a presentation with answers to key questions and recommendations.
 
