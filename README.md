@@ -11,7 +11,8 @@ A relational database made up of 15 tables containing data on film rentals, cust
 Visualizations were created in Tableau. The link to the storyboard can be found [here](https://public.tableau.com/views/Task3_10_PresentingSQLResults_CM/TopCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### TOOLS
-Language: PostgreSQL Software: pgAdmin, DbVisualizer, Tableau, Excel
+Language: PostgreSQL<br />
+Software: pgAdmin, DbVisualizer, Tableau, Excel
 
 ### KEY SKILLS
 
