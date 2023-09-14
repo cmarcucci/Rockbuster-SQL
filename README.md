@@ -1,7 +1,7 @@
 # Rockbuster-SQL
 A data analysis project using PostgreSQL to analyze data from a fictional movie rental company, Rockbuster Stealth.
 
-### OBJECTIVES
+### OBJECTIVE
 Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the world. Facing stiff competition from online streaming services the company is planning to use its existing licenses to launch an online video rental service to stay competitive. The objective of this analysis is to identify where the most loyal customers are located and what films should be in the inventory.
 
 ### DATA
